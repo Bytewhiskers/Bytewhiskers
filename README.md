@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td width="100%" valign="top">
 
 ```text
  ███████████              █████                             █████       ███          █████                                
@@ -13,15 +15,11 @@
               ▒▒██████                                                                                                    
                ▒▒▒▒▒▒                                                                                                     
 ```
-
-</div>
-
-<table>
-<tr>
-<td width="54%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ```yaml
-# bytewhiskers@dev ---------------------------------
+# bytewhiskers@dev ---------------------------------------
 os:                 Linux, macOS
 host:               Custom Architecture
 kernel:             Systems Engineer
@@ -34,38 +32,29 @@ languages.infra:    Docker, Kubernetes, Linux, Terraform
 hobbies.code:       Open Source, CLI Tools, Protocols
 hobbies.other:      Audio, Mechanics, Coffee
 
-# contact ------------------------------------------
+# contact ------------------------------------------------
 email.work:         contact@bytewhiskers.dev
 linkedin:           linkedin.com/in/Bytewhiskers
 x.twitter:          x.com/Bytewhiskers
 github:             github.com/Bytewhiskers
-```
 
-</td>
-<td width="46%" valign="top">
-
-```yaml
-# stack --------------------------------------------
+# stack --------------------------------------------------
 ```
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00f2fe" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00f2fe" alt="Rust" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00f2fe" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f2fe" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=22c55e" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postgres-0d1117?style=flat-square&logo=postgresql&logoColor=22c55e" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=22c55e" alt="Redis" />
+  <img src="https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=00add8" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust&logoColor=dea584" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=ffd343" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postgres-161b22?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=dc382d" alt="Redis" />
 </p>
-
-```yaml
-# metrics ------------------------------------------
-```
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bytewhiskers&show_icons=true&hide_border=true&bg_color=00000000&title_color=00f2fe&icon_color=22c55e&text_color=8b949e" height="135" alt="stats" />
-</div>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bytewhiskers&show_icons=true&hide_border=true&bg_color=00000000&title_color=a882ff&icon_color=71717a&text_color=a1a1aa" height="140" alt="stats" />
+</div>
