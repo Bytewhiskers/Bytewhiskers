@@ -1,46 +1,62 @@
 <div align="center">
 
-  <svg width="100%" max-width="800" height="110" viewBox="0 0 800 110" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#818cf8"/>
-        <stop offset="50%" stop-color="#c084fc"/>
-        <stop offset="100%" stop-color="#38bdf8"/>
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect x="2" y="2" width="796" height="106" rx="16" fill="#121216" stroke="#27272a" stroke-width="1.5"/>
-    <text x="50%" y="48" text-anchor="middle" fill="url(#grad)" font-size="28" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" letter-spacing="4" filter="url(#glow)">BYTEWHISKERS</text>
-    <text x="50%" y="78" text-anchor="middle" fill="#71717a" font-size="12" font-family="'JetBrains Mono', monospace" letter-spacing="2">CRAFTING INTENTIONAL SYSTEMS & ARCHITECTURE</text>
-  </svg>
+```text
+  _           _                 _     _     _                 
+ | |         | |               | |   (_)   | |                
+ | |__  _   _| |_ _____      __| |__  _ ___| | _____ _ __ ___ 
+ | '_ \| | | | __/ _ \ \ /\ / / '_ \| / __| |/ / _ \ '__/ __|
+ | |_) | |_| | ||  __/\ V  V /| | | | \__ \   <  __/ |  \__ \
+ |_.__/ \__, |\__\___| \_/\_/ |_| |_|_|___/_|\_\___|_|  |___/
+         __/ |                                                
+        |___/                                                 
+```
 
-  <br />
-
-  <a href="https://github.com/Bytewhiskers">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3200&pause=1200&color=C084FC&center=true&vCenter=true&multiline=false&width=600&height=32&lines=turning+curiosity+into+scalable+systems;architecting+clean+apis+and+thoughtful+tools;exploring+distributed+state+machines." alt="Typing quote" />
-  </a>
-
-  <br />
-
-  <p>
-    <a href="https://linkedin.com/in/Bytewhiskers"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn" /></a>
-    <a href="https://x.com/Bytewhiskers"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-18181b?style=for-the-badge&logo=x&logoColor=c084fc" alt="X" /></a>
-    <a href="mailto:contact@bytewhiskers.dev"><img src="https://img.shields.io/badge/Contact-18181b?style=for-the-badge&logo=minutemailer&logoColor=c084fc" alt="Email" /></a>
-  </p>
-
-</div>
+<!-- Animated ASCII / Pixel Cat -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cat-typing.gif" width="160" alt="cat typing" />
 
 <br />
 
-### Selected Focus
+Software engineer focused on clean systems and simple tools.
 
-```text
-focus.current        ->  Distributed Architectures & High-Performance Services
-focus.reading        ->  Database Internals & Transaction Protocols
-focus.craft          ->  Intentional Codebases · Minimal Tooling · Clean Interfaces
+<br />
+
+[Website](https://bytewhiskers.dev) · [LinkedIn](https://linkedin.com/in/Bytewhiskers) · [X / Twitter](https://x.com/Bytewhiskers) · [Email](mailto:contact@bytewhiskers.dev)
+
+</div>
+
+---
+
+### about
+
+- systems, backend architecture, and internal tooling
+- writing go, rust, typescript, and python
+- exploring databases and distributed protocols
+
+---
+
+### stack
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Go-18181b?style=for-the-badge&logo=go&logoColor=ffffff" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-18181b?style=for-the-badge&logo=rust&logoColor=ffffff" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/C-18181b?style=for-the-badge&logo=c&logoColor=ffffff" alt="C" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-18181b?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/Neovim-18181b?style=for-the-badge&logo=neovim&logoColor=ffffff" alt="Neovim" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bytewhiskers&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=71717a&text_color=a1a1aa" height="140" alt="stats" />
+</div>
